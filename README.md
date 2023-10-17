@@ -8,7 +8,7 @@ My portfolio is a collection of my work, projects, and achievements. It's design
 
 ## Website Link
 
-You can access my portfolio by visiting the following URL:[](https://anu-ash.web.app)
+You can access my portfolio by visiting the following URL:[https://anu-ash.web.app]
 
 ## Hosting Details
 
