@@ -4,7 +4,7 @@ Welcome to my portfolio! This README file provides essential information about m
 
 ## Website Link
 
-You can access my portfolio by visiting the following URL:[https://anu-ash.web.app]
+You can access my portfolio by visiting the following URL: https://anu-ash.web.app
 
 
 ## Technologies Used
